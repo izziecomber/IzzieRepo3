@@ -8,3 +8,5 @@ energy but have now crashed.
 This is me editing the read me document for exercise 2. I will attempt to "stage, commit, and push".
 
 AHHHHHHHHHHH.I HATE THIS. BOOOOO.
+
+I figured it out and I am very pleased. Was on the brink of tears. 
